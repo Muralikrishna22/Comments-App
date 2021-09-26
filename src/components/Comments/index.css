@@ -1,0 +1,94 @@
+.app-container {
+  background-color: #dee0e3;
+  min-height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  padding: 50px;
+}
+.inputs-container {
+  display: flex;
+  flex-direction: column;
+  width: 50vw;
+}
+.top-container {
+  display: flex;
+}
+.heading {
+  font-family: Roboto;
+  font-size: 50px;
+  font-weight: bold;
+  color: #1e293b;
+}
+.description {
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: bold;
+  color: #475569;
+}
+.input-name {
+  border: 3px solid #cbd2d9;
+  height: 32px;
+  border-radius: 5px;
+  font-weight: 600;
+  font-size: 14px;
+  padding: 5px;
+  margin-bottom: 20px;
+  width: 300px;
+  background-color: transparent;
+  outline: none;
+}
+.input-content {
+  border: 3px solid #cbd2d9;
+  border-radius: 5px;
+  font-weight: 600;
+  font-size: 14px;
+  padding: 5px;
+  margin-bottom: 20px;
+  width: 300px;
+  background-color: transparent;
+  outline: none;
+}
+
+.comment-btn {
+  height: 30px;
+  width: 120px;
+  color: #dee0e3;
+  background-color: #0284c7;
+  border: 0px;
+  outline: none;
+  cursor: pointer;
+  border-radius: 5px;
+  font-weight: bold;
+}
+.separator {
+  background-color: #cbd2d9;
+  height: 3px;
+  width: 100vw;
+}
+
+.count {
+  color: #dee0e3;
+  background-color: #0284c7;
+  border: 0px;
+  outline: none;
+  border-radius: 3px;
+  font-weight: bold;
+  padding: 2px;
+  margin-right: 5px;
+}
+/* Hex: #dee0e3
+Hex: #1e293b
+Hex: #475569
+Hex: #cbd2d9
+Hex: #0284c7
+Hex: #f59e0b
+Hex: #0b69ff
+Hex: #f97316
+Hex: #10b981
+Hex: #b91c1c
+Hex: #0ea5e9
+Hex: #334155
+Hex: #94a3b8
+Hex: #64748b
+Hex: #7e858e */

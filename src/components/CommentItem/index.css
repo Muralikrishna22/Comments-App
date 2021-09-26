@@ -1,0 +1,92 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+.separator {
+  background-color: #cbd2d9;
+  height: 3px;
+  width: 100vw;
+}
+
+.user-profile {
+  display: flex;
+  align-items: center;
+}
+
+.user-name {
+  font-family: Roboto;
+  font-size: 25px;
+  font-weight: bold;
+  color: #334155;
+  margin-right: 30px;
+  margin-left: 30px;
+}
+
+.date-of-comment {
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: bold;
+  color: #94a3b8;
+  margin-right: 30px;
+}
+
+.user-comment {
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 900;
+  color: #7e858e;
+  margin-right: 20px;
+  margin-left: 50px;
+}
+.icons-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.button {
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+}
+.liked {
+  color: #0b69ff;
+  margin-left: 15px;
+}
+.like {
+  margin-left: 15px;
+  color: #7e858e;
+}
+.initial {
+  border-radius: 10px;
+  padding: 10px;
+  height: auto;
+}
+.comment {
+  list-style-type: none;
+}
